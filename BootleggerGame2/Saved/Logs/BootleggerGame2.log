@@ -3252,3 +3252,523 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.09.28-17.07.20:357][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 648.903931
 [2025.09.28-17.07.21:357][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.28-17.07.21:357][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 649.570740, Update Interval: 310.609467
+[2025.09.28-17.12.37:224][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 965.772705
+[2025.09.28-17.12.38:225][ 72]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-17.12.38:225][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 966.438782, Update Interval: 312.695099
+[2025.09.28-17.13.32:964][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.09.28-17.13.32:966][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BaseMap' took 0.013
+[2025.09.28-17.18.06:710][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1295.257812
+[2025.09.28-17.18.07:714][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-17.18.07:714][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1295.924438, Update Interval: 332.797028
+[2025.09.28-17.23.36:473][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.09.28-17.23.36:475][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BaseMap' took 0.021
+[2025.09.28-17.24.10:339][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1658.889648
+[2025.09.28-17.24.11:338][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-17.24.11:338][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1659.558716, Update Interval: 351.637329
+[2025.09.28-17.26.22:897][452]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.28-17.26.29:422][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.09.28-17.26.29:423][838]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.09.28-17.26.29:582][838]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.28-17.26.30:529][838]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.28-17.27.01:443][345]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2025.09.28-17.27.08:302][728]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.09.28-17.27.08:302][728]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.09.28-17.27.08:305][728]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BaseMap.BaseMap:PersistentLevel.StaticMeshActor_UAID_089DF43F8BE3449302_1946923696
+[2025.09.28-17.27.08:305][728]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/BaseMap.BaseMap:PersistentLevel.StaticMeshActor_UAID_089DF43F8BE3449302_1946923696
+[2025.09.28-17.27.13:559][ 29]Cmd: DELETE
+[2025.09.28-17.27.13:559][ 29]Cmd: ACTOR DELETE
+[2025.09.28-17.27.13:568][ 29]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.28-17.27.13:597][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.28-17.27.13:598][ 29]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.09.28-17.27.17:101][226]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.09.28-17.27.17:101][226]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.09.28-17.27.17:105][226]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BaseMap.BaseMap:PersistentLevel.StaticMeshActor_UAID_089DF43F8BE3449302_1955722697
+[2025.09.28-17.27.17:106][226]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/BaseMap.BaseMap:PersistentLevel.StaticMeshActor_UAID_089DF43F8BE3449302_1955722697
+[2025.09.28-17.27.19:964][390]Cmd: DUPLICATE
+[2025.09.28-17.27.19:964][390]Cmd: ACTOR DUPLICATE
+[2025.09.28-17.27.21:223][460]Cmd: DUPLICATE
+[2025.09.28-17.27.21:223][460]Cmd: ACTOR DUPLICATE
+[2025.09.28-17.27.28:994][912]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.28-17.27.29:002][912]LogContentBundle: [BaseMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.28-17.27.29:002][912]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' started...
+[2025.09.28-17.27.29:006][912]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' took 4.903 ms (total: 36.026 ms)
+[2025.09.28-17.27.29:007][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.28-17.27.29:032][912]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2025.09.28-17.27.29:034][912]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.09.28-17.27.29:054][913]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.27.29:056][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002170s)
+[2025.09.28-17.27.29:056][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BaseMap.BaseMap to /Game/UEDPIE_0_BaseMap.BaseMap (0.002215s)
+[2025.09.28-17.27.29:072][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.28-17.27.29:074][913]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2025.09.28-17.27.29:075][913]LogWorldPartition: ULevel::OnLevelLoaded(BaseMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.28-17.27.29:076][913]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-17.27.29:076][913]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_BaseMap.BaseMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-17.27.29:076][913]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.28-17.27.29:077][913]LogWorldPartition: Display: WorldPartition initialize took 1.322 ms (total: 264.172 ms)
+[2025.09.28-17.27.29:077][913]LogPlayLevel: PIE: World Init took: (0.002765s)
+[2025.09.28-17.27.29:077][913]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.28-17.27.29:077][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.28-17.27.29:077][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.28-17.27.29:077][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.28-17.27.29:077][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.28-17.27.29:077][913]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.28-17.27.29:077][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.28-17.27.29:077][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.28-17.27.29:077][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.28-17.27.29:077][913]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.28-17.27.29:077][913]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.28-17.27.29:077][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.28-17.27.29:080][913]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.28-17.27.29:168][913]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.28-17.27.29:168][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.28-17.27.29:168][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.28-17.27.29:168][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.28-17.27.29:168][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.28-17.27.29:169][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.28-17.27.29:172][913]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.28-17.27.29:172][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.28-17.27.29:172][913]LogAudio: Display: Audio Device (ID: 5) registered with world 'BaseMap'.
+[2025.09.28-17.27.29:172][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.28-17.27.29:172][913]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.28-17.27.29:174][913]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.28-17.27.29:174][913]LogWorld: Bringing World /Game/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 60) at 2025.09.28-10.27.29
+[2025.09.28-17.27.29:174][913]LogWorld: Bringing up level for play took: 0.000380
+[2025.09.28-17.27.29:175][913]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.28-17.27.29:181][913]LogStreaming: Display: FlushAsyncLoading(856,855,854,853,852,851,850,849,848,847,846,845,844,843,842,841,840,839,838,837,836,835,834,833,832,831,830,829,828,827,826,825,824,823,822,821,820,819,818,817,816,815,814,813): 44 QueuedPackages, 0 AsyncPackages
+[2025.09.28-17.27.29:364][913]PIE: Server logged in
+[2025.09.28-17.27.29:365][913]PIE: Play in editor total start time 0.364 seconds.
+[2025.09.28-17.27.29:880][937]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.29:880][937]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.29:880][937]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.29:880][937]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.29:880][937]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.29:880][937]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.32:252][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.27.32:252][ 78]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.27.32:266][ 78]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-17.27.32:267][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.27.32:267][ 78]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_BaseMap.BaseMap
+[2025.09.28-17.27.32:270][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.28-17.27.32:272][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.27.32:285][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.28-17.27.32:285][ 78]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.28-17.27.32:285][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.28-17.27.32:287][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.28-17.27.32:292][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.27.32:300][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.28-17.27.32:357][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.09.28-17.27.39:312][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.28-17.27.39:748][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-17.27.39:786][467]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.09.28-17.27.39:833][467]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.09.28-17.27.39:833][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.09.28-17.27.39:854][467]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.09.28-17.27.39:855][467]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/BP_FirstPersonCharacterE8AD3E374E9938A810862281C7424D30.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.09.28-17.27.39:870][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.868 ms (total: 1:44 min)
+[2025.09.28-17.27.39:904][467]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-17.27.39:904][467]LogContentValidation: Enabled validators:
+[2025.09.28-17.27.39:904][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-17.27.39:904][467]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-17.27.39:904][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-17.27.39:904][467]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-17.27.39:904][467]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-17.27.39:904][467]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-17.27.39:904][467]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.09.28-17.27.41:024][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.28-17.27.41:029][531]LogContentBundle: [BaseMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.28-17.27.41:029][531]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' started...
+[2025.09.28-17.27.41:033][531]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' took 4.388 ms (total: 40.415 ms)
+[2025.09.28-17.27.41:033][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.28-17.27.41:033][531]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2025.09.28-17.27.41:036][531]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.28-17.27.41:059][532]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.27.41:061][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002326s)
+[2025.09.28-17.27.41:061][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BaseMap.BaseMap to /Game/UEDPIE_0_BaseMap.BaseMap (0.002373s)
+[2025.09.28-17.27.41:077][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.09.28-17.27.41:078][532]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2025.09.28-17.27.41:079][532]LogWorldPartition: ULevel::OnLevelLoaded(BaseMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.28-17.27.41:079][532]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-17.27.41:079][532]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_BaseMap.BaseMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-17.27.41:079][532]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.28-17.27.41:080][532]LogWorldPartition: Display: WorldPartition initialize took 1.228 ms (total: 265.400 ms)
+[2025.09.28-17.27.41:080][532]LogPlayLevel: PIE: World Init took: (0.002488s)
+[2025.09.28-17.27.41:080][532]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.28-17.27.41:080][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.28-17.27.41:080][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.28-17.27.41:082][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.28-17.27.41:082][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.28-17.27.41:082][532]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.28-17.27.41:082][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.28-17.27.41:082][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.28-17.27.41:082][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.28-17.27.41:082][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.28-17.27.41:082][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.28-17.27.41:082][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.28-17.27.41:084][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.28-17.27.41:150][532]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.28-17.27.41:150][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.28-17.27.41:150][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.28-17.27.41:150][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.28-17.27.41:152][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.28-17.27.41:152][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.28-17.27.41:154][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.28-17.27.41:154][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.28-17.27.41:154][532]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.28-17.27.41:154][532]LogAudio: Display: Audio Device (ID: 6) registered with world 'BaseMap'.
+[2025.09.28-17.27.41:154][532]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.28-17.27.41:156][532]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.28-17.27.41:157][532]LogWorld: Bringing World /Game/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 60) at 2025.09.28-10.27.41
+[2025.09.28-17.27.41:157][532]LogWorld: Bringing up level for play took: 0.000361
+[2025.09.28-17.27.41:157][532]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.09.28-17.27.41:162][532]LogStreaming: Display: FlushAsyncLoading(900,899,898,897,896,895,894,893,892,891,890,889,888,887,886,885,884,883,882,881,880,879,878,877,876,875,874,873,872,871,870,869,868,867,866,865,864,863,862,861,860,859,858,857): 44 QueuedPackages, 0 AsyncPackages
+[2025.09.28-17.27.41:314][532]PIE: Server logged in
+[2025.09.28-17.27.41:315][532]PIE: Play in editor total start time 0.286 seconds.
+[2025.09.28-17.27.42:524][602]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.42:524][602]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.42:524][602]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.42:524][602]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.42:524][602]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.42:524][602]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2025.09.28-17.27.46:961][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.27.46:961][865]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.27.46:976][865]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-17.27.46:976][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.27.46:976][865]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_BaseMap.BaseMap
+[2025.09.28-17.27.46:980][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.28-17.27.46:982][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.27.46:996][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.28-17.27.46:999][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.28-17.27.46:999][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.28-17.27.47:002][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.28-17.27.47:011][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.27.47:016][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.28-17.27.47:081][866]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.28-17.27.51:997][145]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.09.28-17.27.52:900][198]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.09.28-17.28.12:312][318]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.28-17.28.12:316][318]LogContentBundle: [BaseMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.28-17.28.12:316][318]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' started...
+[2025.09.28-17.28.12:321][318]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' took 4.752 ms (total: 45.168 ms)
+[2025.09.28-17.28.12:321][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.28-17.28.12:321][318]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2025.09.28-17.28.12:323][318]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.09.28-17.28.12:349][319]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.28.12:352][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002856s)
+[2025.09.28-17.28.12:352][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BaseMap.BaseMap to /Game/UEDPIE_0_BaseMap.BaseMap (0.002909s)
+[2025.09.28-17.28.12:365][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.28-17.28.12:367][319]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2025.09.28-17.28.12:368][319]LogWorldPartition: ULevel::OnLevelLoaded(BaseMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.28-17.28.12:368][319]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-17.28.12:368][319]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_BaseMap.BaseMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-17.28.12:368][319]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.28-17.28.12:369][319]LogWorldPartition: Display: WorldPartition initialize took 1.336 ms (total: 266.737 ms)
+[2025.09.28-17.28.12:369][319]LogPlayLevel: PIE: World Init took: (0.002574s)
+[2025.09.28-17.28.12:370][319]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.28-17.28.12:370][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.28-17.28.12:370][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.28-17.28.12:370][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.28-17.28.12:370][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.28-17.28.12:370][319]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.28-17.28.12:370][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.28-17.28.12:370][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.28-17.28.12:370][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.28-17.28.12:370][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.28-17.28.12:370][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.28-17.28.12:370][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.28-17.28.12:372][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.28-17.28.12:461][319]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.28-17.28.12:461][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.28-17.28.12:461][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.28-17.28.12:461][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.28-17.28.12:461][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.28-17.28.12:461][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.28-17.28.12:464][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.28-17.28.12:464][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.28-17.28.12:464][319]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.28-17.28.12:464][319]LogAudio: Display: Audio Device (ID: 7) registered with world 'BaseMap'.
+[2025.09.28-17.28.12:464][319]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.28-17.28.12:467][319]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.28-17.28.12:468][319]LogWorld: Bringing World /Game/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 60) at 2025.09.28-10.28.12
+[2025.09.28-17.28.12:468][319]LogWorld: Bringing up level for play took: 0.000425
+[2025.09.28-17.28.12:473][319]LogStreaming: Display: FlushAsyncLoading(944,943,942,941,940,939,938,937,936,935,934,933,932,931,930,929,928,927,926,925,924,923,922,921,920,919,918,917,916,915,914,913,912,911,910,909,908,907,906,905,904,903,902,901): 44 QueuedPackages, 0 AsyncPackages
+[2025.09.28-17.28.12:638][319]PIE: Server logged in
+[2025.09.28-17.28.12:639][319]PIE: Play in editor total start time 0.323 seconds.
+[2025.09.28-17.28.40:353][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.28.40:353][969]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.28.40:371][969]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-17.28.40:371][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.28.40:371][969]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_BaseMap.BaseMap
+[2025.09.28-17.28.40:375][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.28-17.28.40:378][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.28.40:400][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.28.40:400][969]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.28-17.28.40:400][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.28-17.28.40:403][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.28-17.28.40:419][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.28-17.28.40:483][970]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.09.28-17.28.58:707][ 46]Cmd: DELETE
+[2025.09.28-17.28.58:707][ 46]Cmd: ACTOR DELETE
+[2025.09.28-17.28.58:709][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.28-17.28.58:710][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.28-17.28.58:732][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.28-17.28.58:735][ 46]LogEditorActor: Deleted 2 Actors (0.028 secs)
+[2025.09.28-17.28.59:993][114]Cmd: DUPLICATE
+[2025.09.28-17.28.59:993][114]Cmd: ACTOR DUPLICATE
+[2025.09.28-17.29.01:022][170]Cmd: DUPLICATE
+[2025.09.28-17.29.01:022][170]Cmd: ACTOR DUPLICATE
+[2025.09.28-17.29.02:513][255]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.28-17.29.02:518][255]LogContentBundle: [BaseMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.28-17.29.02:518][255]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' started...
+[2025.09.28-17.29.02:524][255]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' took 5.443 ms (total: 50.612 ms)
+[2025.09.28-17.29.02:524][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.28-17.29.02:524][255]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2025.09.28-17.29.02:527][255]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.28-17.29.02:552][256]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.29.02:555][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002880s)
+[2025.09.28-17.29.02:555][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BaseMap.BaseMap to /Game/UEDPIE_0_BaseMap.BaseMap (0.002924s)
+[2025.09.28-17.29.02:568][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.28-17.29.02:571][256]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2025.09.28-17.29.02:572][256]LogWorldPartition: ULevel::OnLevelLoaded(BaseMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.28-17.29.02:572][256]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-17.29.02:572][256]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_BaseMap.BaseMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-17.29.02:572][256]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.28-17.29.02:574][256]LogWorldPartition: Display: WorldPartition initialize took 1.416 ms (total: 268.154 ms)
+[2025.09.28-17.29.02:574][256]LogPlayLevel: PIE: World Init took: (0.002864s)
+[2025.09.28-17.29.02:574][256]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.09.28-17.29.02:574][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.28-17.29.02:574][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.28-17.29.02:574][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.28-17.29.02:574][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.28-17.29.02:574][256]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.28-17.29.02:575][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.28-17.29.02:575][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.28-17.29.02:575][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.28-17.29.02:575][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.28-17.29.02:575][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.28-17.29.02:575][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.28-17.29.02:577][256]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.28-17.29.02:654][256]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.28-17.29.02:654][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.28-17.29.02:654][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.28-17.29.02:654][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.28-17.29.02:655][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.09.28-17.29.02:655][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.09.28-17.29.02:657][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.09.28-17.29.02:657][256]LogInit: FAudioDevice initialized with ID 8.
+[2025.09.28-17.29.02:657][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.09.28-17.29.02:657][256]LogAudio: Display: Audio Device (ID: 8) registered with world 'BaseMap'.
+[2025.09.28-17.29.02:657][256]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.28-17.29.02:659][256]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.28-17.29.02:659][256]LogWorld: Bringing World /Game/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 60) at 2025.09.28-10.29.02
+[2025.09.28-17.29.02:659][256]LogWorld: Bringing up level for play took: 0.000420
+[2025.09.28-17.29.02:666][256]LogStreaming: Display: FlushAsyncLoading(988,987,986,985,984,983,982,981,980,979,978,977,976,975,974,973,972,971,970,969,968,967,966,965,964,963,962,961,960,959,958,957,956,955,954,953,952,951,950,949,948,947,946,945): 44 QueuedPackages, 0 AsyncPackages
+[2025.09.28-17.29.02:852][256]PIE: Server logged in
+[2025.09.28-17.29.02:853][256]PIE: Play in editor total start time 0.334 seconds.
+[2025.09.28-17.29.33:893][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.29.33:893][112]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.29.33:909][112]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-17.29.33:909][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.29.33:909][112]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_BaseMap.BaseMap
+[2025.09.28-17.29.33:915][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.28-17.29.33:918][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.29.33:941][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.29.33:941][112]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.09.28-17.29.33:941][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.09.28-17.29.33:943][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.09.28-17.29.33:958][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.28-17.29.34:026][113]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.28-17.30.02:419][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.28-17.30.03:516][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-17.30.03:571][828]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.09.28-17.30.03:708][828]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.09.28-17.30.03:708][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.09.28-17.30.03:729][828]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.09.28-17.30.03:729][828]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/BP_FirstPersonCharacterC0A0222544C587221A3D06995EA08A4F.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.09.28-17.30.03:760][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 244.916 ms (total: 1:44 min)
+[2025.09.28-17.30.03:817][828]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-17.30.03:817][828]LogContentValidation: Enabled validators:
+[2025.09.28-17.30.03:817][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-17.30.03:817][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-17.30.03:817][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-17.30.03:817][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-17.30.03:817][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-17.30.03:817][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-17.30.03:817][828]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.09.28-17.30.05:349][909]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.28-17.30.05:355][909]LogContentBundle: [BaseMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.09.28-17.30.05:355][909]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' started...
+[2025.09.28-17.30.05:359][909]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' took 4.667 ms (total: 55.279 ms)
+[2025.09.28-17.30.05:359][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.28-17.30.05:381][909]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2025.09.28-17.30.05:384][909]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.28-17.30.05:403][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.30.05:406][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002600s)
+[2025.09.28-17.30.05:406][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BaseMap.BaseMap to /Game/UEDPIE_0_BaseMap.BaseMap (0.002641s)
+[2025.09.28-17.30.05:424][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.28-17.30.05:425][910]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2025.09.28-17.30.05:426][910]LogWorldPartition: ULevel::OnLevelLoaded(BaseMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.28-17.30.05:426][910]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-17.30.05:426][910]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_BaseMap.BaseMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-17.30.05:426][910]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.28-17.30.05:427][910]LogWorldPartition: Display: WorldPartition initialize took 1.386 ms (total: 269.540 ms)
+[2025.09.28-17.30.05:427][910]LogPlayLevel: PIE: World Init took: (0.002669s)
+[2025.09.28-17.30.05:428][910]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.09.28-17.30.05:428][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.28-17.30.05:428][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.28-17.30.05:428][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.28-17.30.05:428][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.28-17.30.05:428][910]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.28-17.30.05:428][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.28-17.30.05:428][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.28-17.30.05:428][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.28-17.30.05:428][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.28-17.30.05:428][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.28-17.30.05:428][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.28-17.30.05:429][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.28-17.30.05:511][910]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.28-17.30.05:511][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.28-17.30.05:511][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.28-17.30.05:511][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.28-17.30.05:512][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.09.28-17.30.05:512][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.09.28-17.30.05:514][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.09.28-17.30.05:514][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.09.28-17.30.05:514][910]LogInit: FAudioDevice initialized with ID 9.
+[2025.09.28-17.30.05:514][910]LogAudio: Display: Audio Device (ID: 9) registered with world 'BaseMap'.
+[2025.09.28-17.30.05:514][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.28-17.30.05:516][910]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.28-17.30.05:517][910]LogWorld: Bringing World /Game/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 60) at 2025.09.28-10.30.05
+[2025.09.28-17.30.05:517][910]LogWorld: Bringing up level for play took: 0.000446
+[2025.09.28-17.30.05:523][910]LogStreaming: Display: FlushAsyncLoading(1032,1031,1030,1029,1028,1027,1026,1025,1024,1023,1022,1021,1020,1019,1018,1017,1016,1015,1014,1013,1012,1011,1010,1009,1008,1007,1006,1005,1004,1003,1002,1001,1000,999,998,997,996,995,994,993,992,991,990,989): 44 QueuedPackages, 0 AsyncPackages
+[2025.09.28-17.30.05:691][910]PIE: Server logged in
+[2025.09.28-17.30.05:694][910]PIE: Play in editor total start time 0.34 seconds.
+[2025.09.28-17.30.42:133][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2050.681152
+[2025.09.28-17.30.42:274][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-17.30.42:274][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2050.799072, Update Interval: 314.571991
+[2025.09.28-17.30.58:742][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.30.58:742][ 79]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BaseMap
+[2025.09.28-17.30.58:759][ 79]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-17.30.58:759][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.30.58:759][ 79]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_BaseMap.BaseMap
+[2025.09.28-17.30.58:765][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.28-17.30.58:768][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-17.30.58:782][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.28-17.30.58:782][ 79]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.09.28-17.30.58:782][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.09.28-17.30.58:785][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.09.28-17.30.58:795][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-17.30.58:803][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.28-17.30.58:869][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.28-17.31.07:533][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.28-17.31.08:206][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-17.31.08:258][601]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.09.28-17.31.08:378][601]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.09.28-17.31.08:378][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.09.28-17.31.08:402][601]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.09.28-17.31.08:403][601]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/BP_FirstPersonCharacterADF3DA774843A9F9A368BA8DBD38FC66.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.09.28-17.31.08:421][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.872 ms (total: 1:44 min)
+[2025.09.28-17.31.08:495][601]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-17.31.08:495][601]LogContentValidation: Enabled validators:
+[2025.09.28-17.31.08:495][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-17.31.08:495][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-17.31.08:495][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-17.31.08:495][601]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-17.31.08:495][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-17.31.08:495][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-17.31.08:495][601]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.09.28-17.31.12:143][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.09.28-17.31.12:736][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-17.31.12:771][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/2/OU/VGUVH1DBZL7Z3HOYB0MCOS
+[2025.09.28-17.31.12:772][800]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/VGUVH1DBZL7Z3HOYB0MCOS2778204C44E7127C063CD8BE13EB2CBA.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/__ExternalActors__/BaseMap/2/OU/VGUVH1DBZL7Z3HOYB0MCOS.uasset'
+[2025.09.28-17.31.12:774][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/6/YS/1Q71GL8MXWYLWCF8C0QKZ5
+[2025.09.28-17.31.12:775][800]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/1Q71GL8MXWYLWCF8C0QKZ59A5E880844A9F02EC67F2CB6A9E472FE.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/__ExternalActors__/BaseMap/6/YS/1Q71GL8MXWYLWCF8C0QKZ5.uasset'
+[2025.09.28-17.31.12:776][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/9/TR/3ADL6XRMLCXAYM28EW3O08
+[2025.09.28-17.31.12:777][800]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/3ADL6XRMLCXAYM28EW3O08CF0ABF9B48F1557BD054F1B349C38B87.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/__ExternalActors__/BaseMap/9/TR/3ADL6XRMLCXAYM28EW3O08.uasset'
+[2025.09.28-17.31.12:779][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/4/PP/DB8HGD9SW11SLT7HSX57IC
+[2025.09.28-17.31.12:779][800]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/DB8HGD9SW11SLT7HSX57ICD186A8634279E5491D97E983B830D746.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/__ExternalActors__/BaseMap/4/PP/DB8HGD9SW11SLT7HSX57IC.uasset'
+[2025.09.28-17.31.12:780][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/2/PH/1A1KP1OS577IFFOF58UL6L
+[2025.09.28-17.31.12:781][800]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/1A1KP1OS577IFFOF58UL6L699714D14C13BD30AF48FF9159D5EAA7.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/__ExternalActors__/BaseMap/2/PH/1A1KP1OS577IFFOF58UL6L.uasset'
+[2025.09.28-17.31.12:783][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/5/I1/KYHEZUUOVSY8DG6SNS2L0P
+[2025.09.28-17.31.12:783][800]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/KYHEZUUOVSY8DG6SNS2L0P714653444FC496DA416037A0D4B7445A.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/__ExternalActors__/BaseMap/5/I1/KYHEZUUOVSY8DG6SNS2L0P.uasset'
+[2025.09.28-17.31.12:787][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/5/CA/7DWRKG500BB5BWZXRFINU3
+[2025.09.28-17.31.12:787][800]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/7DWRKG500BB5BWZXRFINU317464D4248C4AD0562767A829F713BAC.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/__ExternalActors__/BaseMap/5/CA/7DWRKG500BB5BWZXRFINU3.uasset'
+[2025.09.28-17.31.12:789][800]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/9/PD/GU46SE3G7QSE6LM49QCAY5
+[2025.09.28-17.31.12:789][800]LogSavePackage: Moving '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Saved/GU46SE3G7QSE6LM49QCAY57FA99D7F4F9EACFEA46131A3A18E1990.tmp' to '../../../../../../Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo/BootleggerGame2/Content/__ExternalActors__/BaseMap/9/PD/GU46SE3G7QSE6LM49QCAY5.uasset'
+[2025.09.28-17.31.13:492][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 755.579 ms (total: 1:45 min)
+[2025.09.28-17.31.13:533][800]LogContentValidation: Display: Starting to validate 8 assets
+[2025.09.28-17.31.13:533][800]LogContentValidation: Enabled validators:
+[2025.09.28-17.31.13:533][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-17.31.13:533][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-17.31.13:534][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-17.31.13:534][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-17.31.13:534][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-17.31.13:534][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-17.31.13:534][800]AssetCheck: /Game/BaseMap Validating asset
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:608][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:609][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/natha/OneDrive/Desktop/Fall_2025/GameSystems/BootleggerGameRepo'
+[2025.09.28-17.33.54:886][306]EditorErrors: Warning: No assets to check in!
+[2025.09.28-17.35.38:575][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.28-17.35.38:577][778]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BaseMap' took 0.045
+[2025.09.28-17.36.50:830][996]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2419.372803
+[2025.09.28-17.36.51:829][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-17.36.51:829][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2420.039062, Update Interval: 305.257111
