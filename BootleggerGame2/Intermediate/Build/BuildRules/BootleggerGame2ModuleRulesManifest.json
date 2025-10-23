@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\katzn\\Documents\\GitHub\\BootleggerGameRepo\\BootleggerGame2\\Intermediate\\Source\\BootleggerGame2.Build.cs",
+		"C:\\Users\\katzn\\Documents\\GitHub\\BootleggerGameRepo\\BootleggerGame2\\Intermediate\\Source\\BootleggerGame2.Target.cs",
+		"C:\\Users\\katzn\\Documents\\GitHub\\BootleggerGameRepo\\BootleggerGame2\\Intermediate\\Source\\BootleggerGame2Client.Target.cs",
+		"C:\\Users\\katzn\\Documents\\GitHub\\BootleggerGameRepo\\BootleggerGame2\\Intermediate\\Source\\BootleggerGame2Editor.Target.cs",
+		"C:\\Users\\katzn\\Documents\\GitHub\\BootleggerGameRepo\\BootleggerGame2\\Intermediate\\Source\\BootleggerGame2Server.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
