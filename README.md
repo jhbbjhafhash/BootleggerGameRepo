@@ -1,10 +1,5 @@
 # BootleggerGameRepo
 
-Changes in sprint 0.0.5:
-- The player can enter the garage and see the UI
-- Updated the look of the player's main UI that shows cash and inventory
-- Fixed the bug that occoured when entering the car
-- Updated the look of the interaction prompts for interacting with kegs and entering vehicles
+Changes in sprint 0.0.7:
+- The police car patrols the map then chases a player when they get within range
 
-Tutorials used:
-- https://www.youtube.com/playlist?list=PLAZ55ud6nlFGZdu3ZvlB3Ciu_nUX177YZ
