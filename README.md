@@ -1,6 +1,6 @@
 # BootleggerGameRepo
 
-Changes in sprint 0.0.7:
-- The police car patrols the map then chases a player when they get within range
-- The player gets sent to jail when hit by a police car
+Changes in sprint 0.0.8:
+- The player can look around in the car
+- The police car has a siren and the player car has engine sudio
 
