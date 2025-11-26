@@ -8,5 +8,5 @@ Changes in sprint 0.0.9:
 - The jail has a building
 - The player can pay bail to get out of jail
 - The player's car spawns outside the jail when they get arrested
-- 
+  
 
